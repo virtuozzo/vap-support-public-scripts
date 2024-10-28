@@ -1,2 +1,0 @@
-# Antiminer scripts
-
